@@ -1,0 +1,14 @@
+.cards{ 
+    z-index: 20;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    div{
+        width: 25vw;
+        height: 16vh;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.37);
+    }
+}
