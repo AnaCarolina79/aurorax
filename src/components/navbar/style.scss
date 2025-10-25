@@ -2,7 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+    position: fixed;
+    width: 100%;
 }
 .nav{
     z-index: 100;

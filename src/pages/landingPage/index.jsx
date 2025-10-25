@@ -4,7 +4,6 @@ import Card from '../../components/cardPresentation'
 
 import presentation from '../../assets/presentation.png'
 import './style.scss'
-import Button from '../../components/button'
 function LandingPage() {
   return (
     <>
